@@ -22,11 +22,11 @@
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/lil/agenda/target/scala-2.12/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.9.5:compile for Scala 2.12.18[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 63448e1d for Scala compiler version 2.12.18[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 18935a5c for Scala compiler version 2.12.18[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/lil/.sbt/boot/scala-2.12.18/lib/scala-library.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/Users/lil/agenda/target/scala-2.12/classes[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.09155725 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.232967667 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
